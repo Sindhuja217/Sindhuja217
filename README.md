@@ -5,7 +5,7 @@
 - Committed to continuous learning, actively exploring and integrating innovative technologies to expand my professional skill set. 
 
 ### Skills
-Programming Languages and Frameworks: Python, SQL, Tableau, C, Matlab, Pytorch, Tensorflow, Keras
-Libraries and Tools: Langchain, Llamaindex, Pandas, Numpy, Sklearn, NLTK, OpenCV, Matplotlib,Seaborn, Huggingface
-Devops: Git, AWS, Docker, Linux, SSH
-Soft Skills: Decision Making, Teamwork, Project Management, Communication, Problem Solving, Adaptability
+- Programming Languages and Frameworks: Python, SQL, Tableau, C, Matlab, Pytorch, Tensorflow, Keras
+- Libraries and Tools: Langchain, Llamaindex, Pandas, Numpy, Sklearn, NLTK, OpenCV, Matplotlib,Seaborn, Huggingface
+- Devops: Git, AWS, Docker, Linux, SSH
+- Soft Skills: Decision Making, Teamwork, Project Management, Communication, Problem Solving, Adaptability
