@@ -1,4 +1,4 @@
-### Hey I'm Sindhuja Chaduvula 👋
+## Hey I'm Sindhuja Chaduvula 👋
 
 ### About Me
 - Skilled AI/ML Engineer with expertise in developing NLP and machine learning solutions for industrial applications, paired with a profound understanding of Python.
